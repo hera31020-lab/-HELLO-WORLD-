@@ -19,3 +19,5 @@ print("The sum is:", addition)
 print("The difference is:", subtraction)
 print("The product is:", multiplication)
 print("The division is:", division)
+print("i wrote the code myself!")
+
