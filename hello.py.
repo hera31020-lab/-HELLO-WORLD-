@@ -20,4 +20,10 @@ print("The difference is:", subtraction)
 print("The product is:", multiplication)
 print("The division is:", division)
 print("i wrote the code myself!")
+favorite_lang=input("what is your favorite programming language? ") 
+if favorite_lang=="python":
+print("awesome! python is a great choice.")
+else:
+print("thats cool ! but python is pretty fun too.")
+
 
