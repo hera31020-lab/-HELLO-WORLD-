@@ -4,3 +4,18 @@ print("welcome to coding, " +name+"!")
 print(5 + 5)
 print("name") 
 print("HERA")
+# My Simple Calculator
+num1 = 20
+num2 = 10
+
+# Doing the math
+addition = num1 + num2
+subtraction = num1 - num2
+multiplication = num1 * num2
+division = num1 / num2
+
+# Printing out the results
+print("The sum is:", addition)
+print("The difference is:", subtraction)
+print("The product is:", multiplication)
+print("The division is:", division)
