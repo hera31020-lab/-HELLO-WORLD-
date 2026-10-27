@@ -1,1 +1,3 @@
 print("Hello, World!")
+name="Coder"
+print("welcome to coding, " +name+"!")
